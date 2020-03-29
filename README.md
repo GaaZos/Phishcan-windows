@@ -20,7 +20,7 @@ Don't harm any one.
 3. Ngrok (from https://ngrok.com)
 ### Usage:
 ```
-git clone https://github.com/INDIATECHYOUTUBE/Phishcan-winodws.git
+git clone https://github.com/INDIATECHYOUTUBE/Phishcan-windows.git
 cd Phishcan-windows
 Run install.exe
 ```
