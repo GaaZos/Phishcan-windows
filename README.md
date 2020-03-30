@@ -32,4 +32,4 @@ Run install.exe
 ```
 
 ## Donate at here using : 
-<noscript><a href="https://paypal.me/indiatechyoutube"><img alt="Donate 👍 using Paypal" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png"></a></noscript
+<noscript><a href="https://paypal.me/indiatechyoutube"><img alt="Donate 👍 using Paypal" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png"></a></noscript>
