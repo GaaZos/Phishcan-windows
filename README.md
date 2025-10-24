@@ -1,8 +1,7 @@
 # Phishcan-windows v1.1
 ![phishcan-windowsv1 1](https://user-images.githubusercontent.com/56644334/77875425-aa287000-726d-11ea-8d25-edb02b8401cc.png)
 * Don't copy the code *
-## Author: https://github.com/INDIATECHYOUTUBE/Phishcan-windows##, nerd! 
-### My Youtube Channel : https://www.youtube.com/channel/UCxwRU278xsYp3Y-QHGoMTPw ##
+
 
 ***
 
@@ -26,7 +25,7 @@ Don't harm any one.
 
 ### Usage:
 ```
-git clone https://github.com/INDIATECHYOUTUBE/Phishcan-windows.git
+git clone https://github.com/GaaZos/Phishcan-windows.git
 cd Phishcan-windows
 Run install.exe
 ```
